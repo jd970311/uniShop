@@ -1,15 +1,13 @@
 <template>
   <view>
-    
+    <my-search></my-search>
   </view>
 </template>
 
 <script>
   export default {
     data() {
-      return {
-        
-      };
+      return {}
     }
   }
 </script>

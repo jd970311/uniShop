@@ -3,22 +3,30 @@
     {
       "path": "pages/home/home",
       "style": {
-        "navigationBarTitleText": "",
-        "enablePullDownRefresh": false
+        "navigationBarTitleText": "智慧商城",
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "white",
+        "navigationBarBackgroundColor": "#c21401"
+        // "backgroundColor": "#c21401"
       }
     },
     {
       "path": "pages/cart/cart",
       "style": {
-        "navigationBarTitleText": "",
-        "enablePullDownRefresh": false
+        "navigationBarTitleText": "购物车",
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "white",
+        "navigationBarBackgroundColor": "#ffffff"
+        // "backgroundColor": "#c21401"
       }
     },
     {
       "path": "pages/cate/cate",
       "style": {
-        "navigationBarTitleText": "",
-        "enablePullDownRefresh": false
+        "navigationBarTitleText": "全部分类",
+        "enablePullDownRefresh": false,
+        "navigationBarTextStyle": "white",
+        "navigationBarBackgroundColor": "#ffffff"
       }
     },
     {
@@ -30,10 +38,7 @@
     }
   ],
   "globalStyle": {
-    "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "uni-app",
-    "navigationBarBackgroundColor": "#F8F8F8",
-    "backgroundColor": "#F8F8F8"
+
   },
   "tabBar": {
     "list": [{
@@ -63,7 +68,5 @@
     ]
   },
   "uniIdRouter": {},
-  "easycom": {
-    "^u-(.*)": "@/uview-ui/components/u-$1/u-$1.vue"
-  }
+
 }
