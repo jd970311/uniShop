@@ -15,7 +15,7 @@
       "style": {
         "navigationBarTitleText": "购物车",
         "enablePullDownRefresh": false,
-        "navigationBarTextStyle": "white",
+        "navigationBarTextStyle": "black",
         "navigationBarBackgroundColor": "#ffffff"
         // "backgroundColor": "#c21401"
       }
@@ -25,14 +25,14 @@
       "style": {
         "navigationBarTitleText": "全部分类",
         "enablePullDownRefresh": false,
-        "navigationBarTextStyle": "white",
+        "navigationBarTextStyle": "black",
         "navigationBarBackgroundColor": "#ffffff"
       }
     },
     {
       "path": "pages/my/my",
       "style": {
-        "navigationBarTitleText": "",
+        "navigationBarTitleText": "111",
         "enablePullDownRefresh": false
       }
     }

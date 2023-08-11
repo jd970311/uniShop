@@ -1,15 +1,13 @@
 <template>
   <view>
-    
+    222
   </view>
 </template>
 
 <script>
   export default {
     data() {
-      return {
-        
-      };
+      return {}
     }
   }
 </script>
